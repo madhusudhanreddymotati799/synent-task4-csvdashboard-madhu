@@ -127,9 +127,12 @@ Processed dataset can be downloaded directly from the dashboard.
 - Real-time database connection
 
 ---
+## Live Dashboard
+
+https://synent-task4-csvdashboard-madhu-gyvnohqxyzo7gvpjcmmf5p.streamlit.app/
 
 # Author
 
-Kantipudi Sahithi
+Motati Madhu Sudhan Reddy
 
 Synent Technologies Data Science Internship
